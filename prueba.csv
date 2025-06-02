@@ -1,0 +1,7 @@
+tipo;enunciado;bloom;alternativa;correcta;tiempo
+ALT;Si un rectangulo es de largo 8cm x 3cm cual es su perimetro? (en cm);Comprender;"11;24;22;16";3;2
+VOF;Segun la funcion f(x)=x^2 se puede afirmar que su grafica es simetrica respecto al eje Y, se puede afirmar que su grafica es simetrica respecto al eje Y;Analizar;"VERDADERO;FALSO";VERDADERO;3
+ALT;Si 3x + 5 = 20 cual es el valor de x?;Aplicar;"3;4;5;6";3;2
+VOF;La ecuacion de una recta es y = mx + b, donde m es la pendiente y b es el intercepto con el eje y;Conocimiento;"VERDADERO;FALSO";VERDADERO;3
+ALT;Si un cuadrado tiene 4 angulos de 90 grados cual es el resultado de sumar todos sus angulos internos?;Comprender;"270;180;450;360";4;2
+VOF;Si el area de un circulo aumenta su radio tambien debe de aumentar;Analizar;"VERDADERO;FALSO";VERDADERO;3

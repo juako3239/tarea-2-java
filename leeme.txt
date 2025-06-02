@@ -1,0 +1,16 @@
+Alcances:
+El siguiente programa fue diseñado especialmente para la resolución de una prueba mediante la carga de esta misma con un archivo de tipo ".csv" (único tipo de archivo admitido). Este programa incluye la funcionalidad para entregar un resumen del análisis de los resultados ingresados, tal como el porcentaje de respuestas correctas desglosadas según su nivel taxonómico al que pertenezcan y el porcentaje de respuestas correctas según su tipo de ítem (alternativas y verdadero/falso).
+
+Supuestos: 
+1. El programa funcionará correctamente siempre y cuando el archivo a cargar tenga como nombre de extensión ".csv", en el caso contrario, no se encontrará ningún otro tipo de archivo.
+2. El archivo .csv funcionará solamente considerando como base el ya creado por Benjamín Vallejos y Joaquín Fuenzalida, ya que el código está adaptado especialmente al formato de prueba de nuestro ".csv".
+
+Instrucciones: 
+1. Guarda en tu directorio preferido el archivo llamado "prueba.csv"
+2. Ejecuta el programa
+3. Presiona el botón llamado "Selección de archivo"
+4. Busca el archivo "prueba.csv" en el directorio donde lo almacenaste y pulsa "Open"
+5. Ya cargado el archivo, pulsa el botón "Comenzar prueba"
+6. Dentro de la resolución de la prueba, debes de marcar la respuesta que consideres correcta 
+7. Cuando termines de responder las preguntas, pulsa el botón llamado "Finalizar prueba"
+8. Al presionar dicho botón, se desplegará una ventana que entrega un resumen de tus respuestas ingresadas, mostrando el porcentaje de respuestas correctas según su taxonomía de Bloom + el porcentaje de respuestas correctas según el tipo de pregunta (alternativas y verdadero/falso).
